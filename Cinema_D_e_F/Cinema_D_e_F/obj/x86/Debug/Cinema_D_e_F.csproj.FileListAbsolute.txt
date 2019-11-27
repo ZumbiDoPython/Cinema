@@ -1,0 +1,40 @@
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.exe
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.pdb
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.bttmeia.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Properties.Resources.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csproj.GenerateResource.Cache
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.exe
+C:\Users\Pedro\AppData\Local\Temporary Projects\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.pdb
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.exe
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.pdb
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.exe
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.pdb
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Properties.Resources.resources
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csproj.GenerateResource.Cache
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira.resources
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csprojResolveAssemblyReference.cache
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira2.resources
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Painel_de_vendas.resources
+D:\MyWorks\Desktop\Fatec GTI\Linguage de Prograação\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Sala3.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.exe
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.pdb
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csprojResolveAssemblyReference.cache
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira2.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Painel_de_vendas.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Properties.Resources.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Sala3.resources
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csproj.GenerateResource.Cache
+D:\MyWorks\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Login.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.exe
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.pdb
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.exe
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\bin\Debug\Cinema_D_e_F.pdb
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Cadeira2.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Painel_de_vendas.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Login.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Properties.Resources.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.Sala3.resources
+C:\Users\Pedro\OneDrive - Fatec Centro Paula Souza\Desktop\Cinema D e F\Cinema_D_e_F\Cinema_D_e_F\obj\x86\Debug\Cinema_D_e_F.csproj.GenerateResource.Cache
